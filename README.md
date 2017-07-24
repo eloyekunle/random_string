@@ -1,5 +1,7 @@
 I sure thought having a native extension would make string generation faster for the thousands I'll have to generate periodically in my web service.
+
 Boy, was I wrong.
+
 Well, here's the source code, tested and working on Ubuntu 17.04.
 You might have to edit the Makefile to the appropriate PHP extensions location on your computer.
 
@@ -21,4 +23,5 @@ sudo make install
 ```
 
 Oh, well. What a beautiful day.
+
 [Elijah Oyekunle](https://elijahoyekunle.com)
