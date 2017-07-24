@@ -1,4 +1,4 @@
-I sure thought having a native extension would make string generation faster for the thousands I'll have to generate periodically in my web service.
+I sure thought writing a native PHP extension in C++ would make string generation faster for the thousands I'll have to generate periodically in my web service.
 
 Boy, was I wrong.
 
